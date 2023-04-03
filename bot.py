@@ -1,5 +1,5 @@
 """
-Инициализация бота и хендлеров
+Инициализация бота
 """
 import logging
 from aiogram import Bot, Dispatcher, executor, types
